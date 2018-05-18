@@ -1,3 +1,3 @@
 <?php
-echo "MyProject Init. Subject for cloning!";
+echo "MyProject Init. Subject for cloning!!";
 ?>
