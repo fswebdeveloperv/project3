@@ -4,3 +4,4 @@ This is a help file.
 3. Execute.
 4. Help.
 5. Maintain.
+6. Retire.
